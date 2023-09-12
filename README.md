@@ -9,6 +9,9 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
+<p align="center">
+  <img src="" alt="Hi, I'm Tiago a future Data Scientist 🇧🇷">
+</p>
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
