@@ -10,7 +10,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
 <p align="center">
-  <img src="" alt="Hi, I'm Tiago a future Data Scientist 🇧🇷">
+  <img src="https://github.com/TiagoSous22/TiagoSous22/blob/main/assets/header_git_v2.gif" alt="Hi, I'm Tiago a future Data Scientist 🇧🇷">
 </p>
 
 
