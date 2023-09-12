@@ -14,7 +14,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 </p>
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" padding=5px alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 - 🌱 I’m currently learning **Machine learning**
 
